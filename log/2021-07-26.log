@@ -1,0 +1,3464 @@
+Log file created at:2021-07-26 22:13:40
+[2021-07-26 22:13:40][INFO]/api/ads/v1/tasks {
+	"analysis_rules": [
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2000
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2001
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2002
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2003
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2004
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2005
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2006
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2007
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2008
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2009
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2010
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2011
+		}
+	],
+	"iosd_url": "",
+	"private_data": {
+		"device_id": "10000000001311000016",
+		"preset_id": 12,
+		"source_type": 1,
+		"task_id": "2306051077676335113",
+		"tollgate_id": ""
+	},
+	"stream_url": "http://61.175.121.73:83/pag/10.13.7.2/7302/33052182001320010509/0/MAIN/TCP/live.m3u8&checkinfo=ewogICAidGltZSIgOiAiMjAxOTEwMTFUMDk1OTMyWiIsCiAgICJ1cmwiIDogImh0dHA6Ly82MS4xNzUuMTIxLjczOjgzL3BhZy8xMC4xMy43LjIvNzMwMi8zMzA1MjE4MjAwMTMyMDAxMDUwOS8wL01BSU4vVENQL2xpdmUubTN1OCIKfQo%3D&idinfo=EAAAAAAQAADyqSAW8afs%2FJCR6ONuoamEVa%2FEn1Cyz82v4lAA08e0gDA16x%2FXg9r42GF4c4tLoIg%3D",
+	"task_id": "2",
+	"task_type": 0
+}
+[2021-07-26 22:13:40][INFO]{"code":0,"error_msg":"The data was sent successfully and will be returned to http://192.168.1.111:8000/api/vias/v1/callback/result","task_id":"2"}
+
+[2021-07-26 22:14:24][INFO]{
+   "img_full" : {
+      "data" : "6 objects"
+   },
+   "model_version" : "",
+   "private_data" : {
+      "device_id" : "10000000001311000016",
+      "preset_id" : 12,
+      "source_type" : 1,
+      "task_id" : "2306051077676335113",
+      "tollgate_id" : ""
+   },
+   "result" : [
+      {
+         "accuracy" : 83.434539794921875,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 200,
+               "left_x" : 330,
+               "left_y" : 379,
+               "pos_type" : 0,
+               "width" : 191
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 72.619491577148438,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 590,
+               "left_x" : 1008,
+               "left_y" : 453,
+               "pos_type" : 0,
+               "width" : 510
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 69.126434326171875,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 92,
+               "left_x" : 1140,
+               "left_y" : 278,
+               "pos_type" : 0,
+               "width" : 180
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 45.57049560546875,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 73,
+               "left_x" : 1207,
+               "left_y" : 168,
+               "pos_type" : 0,
+               "width" : 90
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 33.480728149414062,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 120,
+               "left_x" : 1091,
+               "left_y" : 356,
+               "pos_type" : 0,
+               "width" : 236
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 26.894447326660156,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 103,
+               "left_x" : 1192,
+               "left_y" : 225,
+               "pos_type" : 0,
+               "width" : 142
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      }
+   ],
+   "timestamp" : 1627308863964
+}
+
+[2021-07-26 22:15:13][INFO]/api/ads/v1/tasks {
+	"analysis_rules": [
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2000
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2001
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2002
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2003
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2004
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2005
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2006
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2007
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2008
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2009
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2010
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2011
+		}
+	],
+	"iosd_url": "",
+	"private_data": {
+		"device_id": "10000000001311000016",
+		"preset_id": 12,
+		"source_type": 1,
+		"task_id": "2306051077676335113",
+		"tollgate_id": ""
+	},
+	"stream_url": "http://61.175.121.73:83/pag/10.13.7.2/7302/33052182001320010509/0/MAIN/TCP/live.m3u8&checkinfo=ewogICAidGltZSIgOiAiMjAxOTEwMTFUMDk1OTMyWiIsCiAgICJ1cmwiIDogImh0dHA6Ly82MS4xNzUuMTIxLjczOjgzL3BhZy8xMC4xMy43LjIvNzMwMi8zMzA1MjE4MjAwMTMyMDAxMDUwOS8wL01BSU4vVENQL2xpdmUubTN1OCIKfQo%3D&idinfo=EAAAAAAQAADyqSAW8afs%2FJCR6ONuoamEVa%2FEn1Cyz82v4lAA08e0gDA16x%2FXg9r42GF4c4tLoIg%3D",
+	"task_id": "3",
+	"task_type": 0
+}
+[2021-07-26 22:15:13][INFO]{"code":0,"error_msg":"The data was sent successfully and will be returned to http://192.168.1.111:8000/api/vias/v1/callback/result","task_id":"3"}
+
+[2021-07-26 22:16:00][INFO]{
+   "img_full" : {
+      "data" : "6 objects"
+   },
+   "model_version" : "",
+   "private_data" : {
+      "device_id" : "10000000001311000016",
+      "preset_id" : 12,
+      "source_type" : 1,
+      "task_id" : "2306051077676335113",
+      "tollgate_id" : ""
+   },
+   "result" : [
+      {
+         "accuracy" : 81.894775390625,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 194,
+               "left_x" : 333,
+               "left_y" : 383,
+               "pos_type" : 0,
+               "width" : 191
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 70.2501220703125,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 599,
+               "left_x" : 978,
+               "left_y" : 451,
+               "pos_type" : 0,
+               "width" : 543
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 69.037567138671875,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 92,
+               "left_x" : 1140,
+               "left_y" : 280,
+               "pos_type" : 0,
+               "width" : 176
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 49.206821441650391,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 75,
+               "left_x" : 1203,
+               "left_y" : 166,
+               "pos_type" : 0,
+               "width" : 90
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 37.292831420898438,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 124,
+               "left_x" : 1091,
+               "left_y" : 356,
+               "pos_type" : 0,
+               "width" : 236
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 22.526451110839844,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 107,
+               "left_x" : 1192,
+               "left_y" : 223,
+               "pos_type" : 0,
+               "width" : 138
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      }
+   ],
+   "timestamp" : 1627308960341
+}
+
+[2021-07-26 22:16:34][INFO] Error connecting to resultCallBack client!
+[2021-07-26 22:17:50][INFO]/api/v1/ads/task-status 
+[2021-07-26 22:17:50][INFO]{"code":0,"error_msg":"NULL","task_info":[{"status":0,"task_id":"2"},{"status":0,"task_id":"3"}]}
+
+[2021-07-26 22:18:04][INFO]/api/ads/v1/tasks {
+	"analysis_rules": [
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2000
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2001
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2002
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2003
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2004
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2005
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2006
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2007
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2008
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2009
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2010
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2011
+		}
+	],
+	"iosd_url": "",
+	"private_data": {
+		"device_id": "10000000001311000016",
+		"preset_id": 12,
+		"source_type": 1,
+		"task_id": "2306051077676335113",
+		"tollgate_id": ""
+	},
+	"stream_url": "http://61.175.121.73:83/pag/10.13.7.2/7302/33052182001320010509/0/MAIN/TCP/live.m3u8&checkinfo=ewogICAidGltZSIgOiAiMjAxOTEwMTFUMDk1OTMyWiIsCiAgICJ1cmwiIDogImh0dHA6Ly82MS4xNzUuMTIxLjczOjgzL3BhZy8xMC4xMy43LjIvNzMwMi8zMzA1MjE4MjAwMTMyMDAxMDUwOS8wL01BSU4vVENQL2xpdmUubTN1OCIKfQo%3D&idinfo=EAAAAAAQAADyqSAW8afs%2FJCR6ONuoamEVa%2FEn1Cyz82v4lAA08e0gDA16x%2FXg9r42GF4c4tLoIg%3D",
+	"task_id": "4",
+	"task_type": 0
+}
+[2021-07-26 22:18:04][INFO]{"code":0,"error_msg":"The data was sent successfully and will be returned to http://192.168.1.111:8000/api/vias/v1/callback/result","task_id":"4"}
+
+[2021-07-26 22:19:16][INFO]{
+   "img_full" : {
+      "data" : "6 objects"
+   },
+   "model_version" : "",
+   "private_data" : {
+      "device_id" : "10000000001311000016",
+      "preset_id" : 12,
+      "source_type" : 1,
+      "task_id" : "2306051077676335113",
+      "tollgate_id" : ""
+   },
+   "result" : [
+      {
+         "accuracy" : 80.48309326171875,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 196,
+               "left_x" : 333,
+               "left_y" : 379,
+               "pos_type" : 0,
+               "width" : 187
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 70.278366088867188,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 90,
+               "left_x" : 1140,
+               "left_y" : 282,
+               "pos_type" : 0,
+               "width" : 180
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 71.754463195800781,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 580,
+               "left_x" : 1005,
+               "left_y" : 459,
+               "pos_type" : 0,
+               "width" : 513
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 46.133892059326172,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 73,
+               "left_x" : 1207,
+               "left_y" : 168,
+               "pos_type" : 0,
+               "width" : 90
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 32.619865417480469,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 122,
+               "left_x" : 1091,
+               "left_y" : 358,
+               "pos_type" : 0,
+               "width" : 232
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 28.389900207519531,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 65,
+               "left_x" : 1188,
+               "left_y" : 227,
+               "pos_type" : 0,
+               "width" : 123
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      }
+   ],
+   "timestamp" : 1627309156449
+}
+
+[2021-07-26 22:20:05][INFO]task_id:3 the url of this task_id open error!
+[2021-07-26 22:20:30][INFO]{
+   "img_full" : {
+      "data" : "6 objects"
+   },
+   "model_version" : "",
+   "private_data" : {
+      "device_id" : "10000000001311000016",
+      "preset_id" : 12,
+      "source_type" : 1,
+      "task_id" : "2306051077676335113",
+      "tollgate_id" : ""
+   },
+   "result" : [
+      {
+         "accuracy" : 83.654090881347656,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 196,
+               "left_x" : 333,
+               "left_y" : 381,
+               "pos_type" : 0,
+               "width" : 191
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 71.124038696289062,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 611,
+               "left_x" : 975,
+               "left_y" : 445,
+               "pos_type" : 0,
+               "width" : 547
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 66.8453369140625,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 88,
+               "left_x" : 1140,
+               "left_y" : 280,
+               "pos_type" : 0,
+               "width" : 180
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 42.049999237060547,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 75,
+               "left_x" : 1207,
+               "left_y" : 166,
+               "pos_type" : 0,
+               "width" : 90
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 41.075916290283203,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 124,
+               "left_x" : 1095,
+               "left_y" : 354,
+               "pos_type" : 0,
+               "width" : 228
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 27.915414810180664,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 107,
+               "left_x" : 1192,
+               "left_y" : 223,
+               "pos_type" : 0,
+               "width" : 142
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      }
+   ],
+   "timestamp" : 1627309229879
+}
+
+[2021-07-26 22:21:27][INFO] Error connecting to resultCallBack client!
+[2021-07-26 22:22:09][INFO]/api/ads/v1/task/2 
+[2021-07-26 22:22:09][INFO]{"code":0,"error_msg":"this video will be deleted","task_id":"2"}
+
+[2021-07-26 22:22:16][INFO]/api/ads/v1/task/3 
+[2021-07-26 22:22:16][INFO]{"code":0,"error_msg":"this video will be deleted","task_id":"3"}
+
+[2021-07-26 22:24:58][INFO]task_id:4 the url of this task_id can't open!
+[2021-07-26 22:51:58][INFO]/api/v1/ads/task-status 
+[2021-07-26 22:51:58][INFO]{"code":0,"error_msg":"NULL","task_info":[{"abnormal_msg":"The rtsp can't open!","status":2,"task_id":"4"}]}
+
+[2021-07-26 22:52:01][INFO]/api/v1/ads/task-status 
+[2021-07-26 22:52:01][INFO]{"code":0,"error_msg":"NULL","task_info":[{"abnormal_msg":"The rtsp can't open!","status":2,"task_id":"4"}]}
+
+Log file created at:2021-07-26 23:06:01
+[2021-07-26 23:06:01][INFO]/api/ads/v1/tasks {
+	"analysis_rules": [
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2000
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2001
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2002
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2003
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2004
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2005
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2006
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2007
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2008
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2009
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2010
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2011
+		}
+	],
+	"iosd_url": "",
+	"private_data": {
+		"device_id": "10000000001311000016",
+		"preset_id": 12,
+		"source_type": 1,
+		"task_id": "2306051077676335113",
+		"tollgate_id": ""
+	},
+	"stream_url": "http://61.175.121.73:83/pag/10.13.7.2/7302/33052182001320010509/0/MAIN/TCP/live.m3u8&checkinfo=ewogICAidGltZSIgOiAiMjAxOTEwMTFUMDk1OTMyWiIsCiAgICJ1cmwiIDogImh0dHA6Ly82MS4xNzUuMTIxLjczOjgzL3BhZy8xMC4xMy43LjIvNzMwMi8zMzA1MjE4MjAwMTMyMDAxMDUwOS8wL01BSU4vVENQL2xpdmUubTN1OCIKfQo%3D&idinfo=EAAAAAAQAADyqSAW8afs%2FJCR6ONuoamEVa%2FEn1Cyz82v4lAA08e0gDA16x%2FXg9r42GF4c4tLoIg%3D",
+	"task_id": "4",
+	"task_type": 0
+}
+[2021-07-26 23:06:01][INFO]{"code":0,"error_msg":"The data was sent successfully and will be returned to http://192.168.1.111:8000/api/vias/v1/callback/result","task_id":"4"}
+
+[2021-07-26 23:06:40][INFO]/api/ads/v1/tasks {
+	"analysis_rules": [
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2000
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2001
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2002
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2003
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2004
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2005
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2006
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2007
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2008
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2009
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2010
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2011
+		}
+	],
+	"iosd_url": "",
+	"private_data": {
+		"device_id": "10000000001311000016",
+		"preset_id": 12,
+		"source_type": 1,
+		"task_id": "2306051077676335113",
+		"tollgate_id": ""
+	},
+	"stream_url": "http://61.175.121.73:83/pag/10.13.7.2/7302/33052182001320010509/0/MAIN/TCP/live.m3u8&checkinfo=ewogICAidGltZSIgOiAiMjAxOTEwMTFUMDk1OTMyWiIsCiAgICJ1cmwiIDogImh0dHA6Ly82MS4xNzUuMTIxLjczOjgzL3BhZy8xMC4xMy43LjIvNzMwMi8zMzA1MjE4MjAwMTMyMDAxMDUwOS8wL01BSU4vVENQL2xpdmUubTN1OCIKfQo%3D&idinfo=EAAAAAAQAADyqSAW8afs%2FJCR6ONuoamEVa%2FEn1Cyz82v4lAA08e0gDA16x%2FXg9r42GF4c4tLoIg%3D",
+	"task_id": "5",
+	"task_type": 0
+}
+[2021-07-26 23:06:40][INFO]{"code":0,"error_msg":"The data was sent successfully and will be returned to http://192.168.1.111:8000/api/vias/v1/callback/result","task_id":"5"}
+
+[2021-07-26 23:06:46][INFO]/api/ads/v1/tasks {
+	"analysis_rules": [
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2000
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2001
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2002
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2003
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2004
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2005
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2006
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2007
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2008
+		},
+		{
+			"autonomy": true,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2009
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2010
+		},
+		{
+			"autonomy": false,
+			"associated_task_id": "12345",
+			"detect_areas": [
+				{
+					"area": [
+						{
+							"point_id": 1,
+							"point_x": 0,
+							"point_y": 0
+						},
+						{
+							"point_id": 2,
+							"point_x": 0,
+							"point_y": 1080
+						},
+						{
+							"point_id": 3,
+							"point_x": 1920,
+							"point_y": 1080
+						},
+						{
+							"point_id": 4,
+							"point_x": 1920,
+							"point_y": 0
+						}
+					]
+				}
+			],
+			"event_type": 2011
+		}
+	],
+	"iosd_url": "",
+	"private_data": {
+		"device_id": "10000000001311000016",
+		"preset_id": 12,
+		"source_type": 1,
+		"task_id": "2306051077676335113",
+		"tollgate_id": ""
+	},
+	"stream_url": "http://61.175.121.73:83/pag/10.13.7.2/7302/33052182001320010509/0/MAIN/TCP/live.m3u8&checkinfo=ewogICAidGltZSIgOiAiMjAxOTEwMTFUMDk1OTMyWiIsCiAgICJ1cmwiIDogImh0dHA6Ly82MS4xNzUuMTIxLjczOjgzL3BhZy8xMC4xMy43LjIvNzMwMi8zMzA1MjE4MjAwMTMyMDAxMDUwOS8wL01BSU4vVENQL2xpdmUubTN1OCIKfQo%3D&idinfo=EAAAAAAQAADyqSAW8afs%2FJCR6ONuoamEVa%2FEn1Cyz82v4lAA08e0gDA16x%2FXg9r42GF4c4tLoIg%3D",
+	"task_id": "6",
+	"task_type": 0
+}
+[2021-07-26 23:06:46][INFO]{"code":0,"error_msg":"The data was sent successfully and will be returned to http://192.168.1.111:8000/api/vias/v1/callback/result","task_id":"6"}
+
+[2021-07-26 23:07:11][INFO]{
+   "img_full" : {
+      "data" : "7 objects"
+   },
+   "model_version" : "",
+   "private_data" : {
+      "device_id" : "10000000001311000016",
+      "preset_id" : 12,
+      "source_type" : 1,
+      "task_id" : "2306051077676335113",
+      "tollgate_id" : ""
+   },
+   "result" : [
+      {
+         "accuracy" : 83.729393005371094,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 194,
+               "left_x" : 333,
+               "left_y" : 383,
+               "pos_type" : 0,
+               "width" : 187
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 54.590988159179688,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 156,
+               "left_x" : 570,
+               "left_y" : 276,
+               "pos_type" : 0,
+               "width" : 90
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 68.293342590332031,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 109,
+               "left_x" : 701,
+               "left_y" : 257,
+               "pos_type" : 0,
+               "width" : 63
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 72.557754516601562,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 596,
+               "left_x" : 1005,
+               "left_y" : 432,
+               "pos_type" : 0,
+               "width" : 506
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 78.211647033691406,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 166,
+               "left_x" : 1128,
+               "left_y" : 280,
+               "pos_type" : 0,
+               "width" : 195
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 32.117042541503906,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 63,
+               "left_x" : 1207,
+               "left_y" : 164,
+               "pos_type" : 0,
+               "width" : 90
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 27.031173706054688,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 99,
+               "left_x" : 1177,
+               "left_y" : 227,
+               "pos_type" : 0,
+               "width" : 146
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      }
+   ],
+   "timestamp" : 1627312023770
+}
+
+[2021-07-26 23:07:51][INFO]{
+   "img_full" : {
+      "data" : "7 objects"
+   },
+   "model_version" : "",
+   "private_data" : {
+      "device_id" : "10000000001311000016",
+      "preset_id" : 12,
+      "source_type" : 1,
+      "task_id" : "2306051077676335113",
+      "tollgate_id" : ""
+   },
+   "result" : [
+      {
+         "accuracy" : 86.939346313476562,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 194,
+               "left_x" : 330,
+               "left_y" : 383,
+               "pos_type" : 0,
+               "width" : 191
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 64.106575012207031,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 116,
+               "left_x" : 701,
+               "left_y" : 253,
+               "pos_type" : 0,
+               "width" : 60
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 56.989669799804688,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 156,
+               "left_x" : 566,
+               "left_y" : 276,
+               "pos_type" : 0,
+               "width" : 90
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 75.602874755859375,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 168,
+               "left_x" : 1125,
+               "left_y" : 280,
+               "pos_type" : 0,
+               "width" : 198
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 70.052238464355469,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 643,
+               "left_x" : 982,
+               "left_y" : 428,
+               "pos_type" : 0,
+               "width" : 532
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 35.272098541259766,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 65,
+               "left_x" : 1207,
+               "left_y" : 162,
+               "pos_type" : 0,
+               "width" : 90
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 32.464870452880859,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 101,
+               "left_x" : 1177,
+               "left_y" : 227,
+               "pos_type" : 0,
+               "width" : 146
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      }
+   ],
+   "timestamp" : 1627312063448
+}
+
+[2021-07-26 23:07:59][INFO]{
+   "img_full" : {
+      "data" : "7 objects"
+   },
+   "model_version" : "",
+   "private_data" : {
+      "device_id" : "10000000001311000016",
+      "preset_id" : 12,
+      "source_type" : 1,
+      "task_id" : "2306051077676335113",
+      "tollgate_id" : ""
+   },
+   "result" : [
+      {
+         "accuracy" : 85.912887573242188,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 191,
+               "left_x" : 330,
+               "left_y" : 383,
+               "pos_type" : 0,
+               "width" : 191
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 59.353984832763672,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 153,
+               "left_x" : 566,
+               "left_y" : 276,
+               "pos_type" : 0,
+               "width" : 93
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 67.688919067382812,
+         "attr_data" : {
+            "event_sort" : 2010
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 113,
+               "left_x" : 701,
+               "left_y" : 255,
+               "pos_type" : 0,
+               "width" : 60
+            }
+         ],
+         "obj_id" : 6,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 76.164505004882812,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 166,
+               "left_x" : 1125,
+               "left_y" : 280,
+               "pos_type" : 0,
+               "width" : 198
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 73.896560668945312,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 605,
+               "left_x" : 1008,
+               "left_y" : 447,
+               "pos_type" : 0,
+               "width" : 513
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 34.027835845947266,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 63,
+               "left_x" : 1207,
+               "left_y" : 162,
+               "pos_type" : 0,
+               "width" : 90
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      },
+      {
+         "accuracy" : 26.574289321899414,
+         "attr_data" : {
+            "event_sort" : 2011
+         },
+         "feature" : "",
+         "img_part_list" : [
+            {
+               "data" : "",
+               "format" : 0,
+               "high" : 97,
+               "left_x" : 1181,
+               "left_y" : 232,
+               "pos_type" : 0,
+               "width" : 142
+            }
+         ],
+         "obj_id" : 3,
+         "obj_type" : 9,
+         "quality" : 100,
+         "short_feature" : ""
+      }
+   ],
+   "timestamp" : 1627312072297
+}
+
